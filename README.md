@@ -1,16 +1,52 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Ryan Stoffel 👋</h1>
 
-<!--
-**RyanStoffel/RyanStoffel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Computer Science Major | 🎮 Game Developer | 📚 Lifelong Learner  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🎓 About Me
+
+- 🎓 Junior at **California Baptist University**  
+- 📚 Concentration in **AI / Machine Learning**  
+- 🔧 Passionate about **game development** and **software engineering**
+- 💡 Building tools in **Unity**, **C++**, **Python**, and **React**
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** C++, Python, C#, Java, JavaScript, HTML/CSS, SQL  
+- **Frameworks & Tools:** React, Next.js, Node.js, Unity, OpenGL, MySQL  
+- **Dev Tools:** Neovim, Git, GitHub, Linux (Arch/Nix), VS Code  
+- **Other:** Salesforce, Obsidian Vault (AI-powered notes), Emscripten
+
+---
+
+### 🎮 Projects
+
+- 🗡️ **Lance UP!** – A Unity-based game  
+- 🧠 AI Note Assistant – Automating knowledge search in Obsidian  
+- 🔍 ADT Visualizer – Visualizing data structures in C++ and JavaScript
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanStoffel&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ryanstoffel) *(example link – update yours)*  
+- 🧠 I love building, learning, and collaborating — feel free to reach out!
+
+---
+
+<!-- optional badges -->
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=RyanStoffel.visitor-badge) -->
+
