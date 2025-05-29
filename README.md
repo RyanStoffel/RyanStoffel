@@ -55,17 +55,10 @@ public class RyanStoffel {
     };
     
     public void whatAmILearning() {
-        System.debug('AI/ML algorithms, advanced Salesforce development, and game engines!');
+        System.debug('AI/ML algorithms and advanced Salesforce development!');
     }
 }
 ```
-
-## 🌟 Passion Projects
-
-- 🌐 **Web Development**: Building responsive, user-friendly applications with React and Next.js
-- 🎮 **Game Development**: Exploring game engines and creating interactive experiences
-- 🤖 **AI/ML**: Diving deep into machine learning algorithms and neural networks
-- ☁️ **Salesforce Development**: Mastering the Trailblazer platform and Lightning ecosystem
 
 ## 📊 GitHub Stats
 
@@ -77,12 +70,6 @@ public class RyanStoffel {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanStoffel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
-## 🎓 Education Journey
-
-**California Baptist University** | *Junior Year*  
-**Computer Science** with concentration in **AI/Machine Learning**  
-*Building the foundation for tomorrow's tech innovations*
 
 ## 🤝 Let's Connect!
 
