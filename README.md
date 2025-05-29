@@ -40,13 +40,3 @@
 
 ---
 
-### 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/ryanstoffel) *(example link – update yours)*  
-- 🧠 I love building, learning, and collaborating — feel free to reach out!
-
----
-
-<!-- optional badges -->
-<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=RyanStoffel.visitor-badge) -->
-
