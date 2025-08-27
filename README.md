@@ -1,16 +1,14 @@
 # Hey there! 👋 I'm Ryan Stoffel
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+%40+CBU;AI+%2F+Machine+Learning+Enthusiast;Salesforce+Developer+Intern;Full-Stack+Web+Developer;Game+Development+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+%40+CBU;Salesforce+Developer;Full-Stack+Web+Developer;" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
 
-I'm a **Junior Computer Science student** at California Baptist University with a concentration in **AI/Machine Learning**. Currently diving deep into the Salesforce ecosystem as a **Student Developer Intern at CaMiLL**, where I craft Lightning Web Components and wrangle Apex code like it's nobody's business!
+I'm a **Junior Computer Science student** at California Baptist University with a concentration in **AI/Machine Learning**. Currently an Intern at CAiMLL (CBU Ai/Machine Learning Lab) as a **Salesforce Developer**.
 
-When I'm not debugging mysteriously broken queries or building the next great web app, you'll find me exploring game development or tinkering with AI models. I believe in writing clean code, building cool stuff, and learning something new every day.
-
-## 💻 Tech Arsenal
+## 💻 Tech Stack
 
 <div align="center">
 
@@ -36,7 +34,6 @@ When I'm not debugging mysteriously broken queries or building the next great we
 
 ### Development Environment
 ![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
 </div>
@@ -44,19 +41,14 @@ When I'm not debugging mysteriously broken queries or building the next great we
 ## 🎯 What I'm Up To
 
 ```apex
-// Currently @ CaMiLL Internship
+// Currently @ CAiMLL Internship
 public class RyanStoffel {
-    private String currentRole = 'Salesforce Developer Intern';
+    private String currentRole = 'Salesforce Developer';
     private List<String> dailyTasks = new List<String>{
-        'Crafting Lightning Web Components ⚡',
-        'Apex Code Development 🔧',
-        'Data Modeling & Architecture 📊',
-        'Debugging mysterious SOQL queries 🔍'
+        'Creating Lightning Web Components',
+        'Apex Code Development',
+        'Data Modeling & Architecture',
     };
-    
-    public void whatAmILearning() {
-        System.debug('AI/ML algorithms and advanced Salesforce development!');
-    }
 }
 ```
 
@@ -73,7 +65,7 @@ public class RyanStoffel {
 
 ## 🤝 Let's Connect!
 
-I'm always excited to collaborate on interesting projects, discuss the latest in AI/ML, or chat about Salesforce development. Feel free to reach out!
+I'm always excited to collaborate on interesting projects. Feel free to reach out!
 
 <div align="center">
 
@@ -87,8 +79,4 @@ I'm always excited to collaborate on interesting projects, discuss the latest in
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=RyanStoffel&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</div>
-
-<div align="center">
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
 </div>
