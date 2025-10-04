@@ -1,82 +1,51 @@
-# Hey there! 👋 I'm Ryan Stoffel
+# Ryan Stoffel
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Science+%40+CBU;Salesforce+Developer;Full-Stack+Web+Developer;" alt="Typing SVG" />
-</div>
+**Computer Science @ CBU** | **Salesforce Developer @ CAiMLL**
 
-## 🚀 About Me
+Building intelligent systems at the intersection of AI and enterprise software.
 
-I'm a **Junior Computer Science student** at California Baptist University with a concentration in **AI/Machine Learning**. Currently an Intern at CAiMLL (CBU Ai/Machine Learning Lab) as a **Salesforce Developer**.
+---
 
-## 💻 Tech Stack
+## Current Work
 
-<div align="center">
+**Salesforce & AI Research Assistant** at CAiMLL (CBU AI and Machine Learning Lab)
+- Architecting production Salesforce solutions using Apex, SOQL, and Agentforce
+- Built **DINA Matching Engine** — a dual-architecture recommendation system:
+  - **v1**: Salesforce-native vector search via Data Cloud (90% latency reduction: 60s → 3s)
+  - **v2**: GCP-integrated pipeline with Python ETL and PostgreSQL embeddings
+- Leading cross-org deployments with Salesforce CLI, GitHub, and manifest-driven version control
 
-### Languages & Core Technologies
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Apex](https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+## Notable Projects
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+**DINA Matching Engine** — AI-powered recommendation system
+- Bidirectional object matching using vector similarity
+- Smart caching with batch processing and queueable architecture
+- Full-stack integration: Salesforce ↔ GCP ↔ PostgreSQL
+- [*Actively used in production by research leadership*]
 
-### Databases & Cloud
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![SOQL](https://img.shields.io/badge/SOQL-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Meeting Report Generator** — AI-driven operational automation
+- Leverages Agentforce and Apex for automated report generation
+- Accelerates decision-making across research teams
 
-### Development Environment
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Neovim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
-</div>
-
-## 🎯 What I'm Up To
+## Tech Stack
 
 ```apex
-// Currently @ CAiMLL Internship
-public class RyanStoffel {
-    private String currentRole = 'Salesforce Developer';
-    private List<String> dailyTasks = new List<String>{
-        'Creating Lightning Web Components',
-        'Apex Code Development',
-        'Data Modeling & Architecture',
-    };
+{
+  languages: ['Apex', 'Python', 'Java', 'C++', 'JavaScript', 'SQL/SOQL'],
+  frameworks: ['React', 'Next.js'],
+  salesforce: ['Apex', 'Flows', 'LWC', 'SOQL', 'Data Cloud', 'Agentforce'],
+  cloud: ['GCP', 'PostgreSQL'],
+  tools: ['Neovim', 'Git', 'Salesforce CLI', 'Jira']
 }
 ```
 
-## 📊 GitHub Stats
+## Connect
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanStoffel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanStoffel&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanStoffel&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on interesting projects. Feel free to reach out!
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-stoffel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ryanstoffel.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ryanstoffel62@icloud.com)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ryan-stoffel)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://ryanstoffel.dev)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ryanstoffel62@icloud.com)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyanStoffel&color=36BCF7&style=for-the-badge" alt="Profile Views" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanStoffel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff"
